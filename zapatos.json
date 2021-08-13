@@ -8,7 +8,7 @@
             "color1": "Negro",
             "color2": "Marrón"
         },
-        "stock": "15"
+        "stock": 15
 
     },
     {
@@ -21,7 +21,7 @@
             "color2": "Verde",
             "color3": "Rojo"
         },
-        "stock": "8"
+        "stock": 8
     },
     {
         "nombre": "Botines",
@@ -32,7 +32,7 @@
             "color1": "Marrón claro",
             "color2": "Gris"
         },
-        "stock": "20"
+        "stock": 20
 
     },
     {
@@ -48,6 +48,6 @@
             "color6": "Azul"
         
         },
-        "stock": "26"
+        "stock": 26
     }
 ]

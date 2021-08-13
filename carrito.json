@@ -1,7 +1,23 @@
 [
     {
-        "Ctotal": "2600",
-        "Cenvio": "100",
+        "Ctotal": "$2600",
+        "Cenvio": "$100",
+        "FormaDePago": {
+            "forma1": "Crédito",
+            "forma2": "Débito"
+        }
+    },
+    {
+        "Ctotal": "$4000",
+        "Cenvio": "$100",
+        "FormaDePago": {
+            "forma1": "Crédito",
+            "forma2": "Débito"
+        }
+    },
+    {
+        "Ctotal": "$600",
+        "Cenvio": "$100",
         "FormaDePago": {
             "forma1": "Crédito",
             "forma2": "Débito"

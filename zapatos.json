@@ -1,0 +1,21 @@
+[
+    {
+        "nombre": "Botas altas",
+        "precio": "$2000",
+        "descripción": "Estar a la moda nunca fue tan fácil",
+        "id": "1"
+
+    },
+    {
+        "nombre": "Championes deportivos",
+        "precio": "$2500",
+        "descripción": "Cómodos y económicos",
+        "id": "2"
+    },
+    {
+        "nombre": "Botines",
+        "precio": "$2000",
+        "descripción": "Ideal para cualquier salida",
+        "id": "3"
+    }
+]

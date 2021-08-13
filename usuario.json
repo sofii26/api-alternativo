@@ -1,9 +1,23 @@
 [
     {
-        "nombre": "nombre y apellido",
-        "teléfono": "",
-        "dirección": "",
-        "id": ""
+        "nombre": "Mariela Pereira",
+        "username": "mari25",
+        "telefono": "096333222",
+        "direccion": "Comercio 2866"      
+
         
+    },
+    {
+        "nombre": "Jorge Hernández",
+        "username": "jorgher",
+        "telefono": "095777888",
+        "direccion": "Avenida Italia 1987"
+        
+    },
+    {
+        "nombre": "Viviana Serrano",
+        "username": "vivi_ser",
+        "telefono": "092555999",
+        "direccion": "18 de julio 1425"
     }
 ]

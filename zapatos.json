@@ -3,19 +3,33 @@
         "nombre": "Botas altas",
         "precio": "$2000",
         "descripción": "Estar a la moda nunca fue tan fácil",
-        "id": "1"
+        "id": "1",
+        "colores": {
+            "color1": "Negro",
+            "color2": "Marrón"
+        }
 
     },
     {
         "nombre": "Championes deportivos",
         "precio": "$2500",
         "descripción": "Cómodos y económicos",
-        "id": "2"
+        "id": "2",
+        "colores": {
+            "color1": "Azul",
+            "color2": "Verde",
+            "color3": "Rojo"
+        }
     },
     {
         "nombre": "Botines",
         "precio": "$2000",
         "descripción": "Ideal para cualquier salida",
-        "id": "3"
+        "id": "3",
+        "colores": {
+            "color1": "Marrón claro",
+            "color2": "Gris"
+        }
+
     }
 ]

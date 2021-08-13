@@ -1,0 +1,10 @@
+[
+    {
+        "Ctotal": "2600",
+        "Cenvio": "100",
+        "FormaDePago": {
+            "forma1": "Crédito",
+            "forma2": "Débito"
+        }
+    }
+]

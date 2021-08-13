@@ -19,5 +19,11 @@
         "username": "vivi_ser",
         "telefono": "092555999",
         "direccion": "18 de julio 1425"
+    },
+    {
+        "nombre": "Emilia Peretti",
+        "username": "perettiemilia",
+        "telefono": "098544778",
+        "direccion": "Ramón Anador 3526"
     }
 ]

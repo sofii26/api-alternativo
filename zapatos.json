@@ -2,7 +2,7 @@
     {
         "nombre": "Botas altas",
         "precio": "$2000",
-        "descripción": "Estar a la moda nunca fue tan fácil",
+        "descripcion": "Estar a la moda nunca fue tan fácil",
         "id": "1",
         "colores": {
             "color1": "Negro",

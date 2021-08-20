@@ -1,0 +1,16 @@
+body {
+background-image: url('fondo.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+#Titulo1 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 70px;
+}
+#Titulo2 {
+    text-align: center;
+    font-family:monospace;
+    font-display:initial ;
+}

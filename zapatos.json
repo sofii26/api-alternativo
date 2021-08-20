@@ -39,6 +39,7 @@
         "nombre": "Pantuflas",
         "precio": "$600",
         "descripcion": "En variedad de colores",
+        "id": "4",
         "colores": {
             "color1": "Gris",
             "color2": "Rosado",

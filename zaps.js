@@ -11,9 +11,9 @@ for (let i=0; i<datos.length; i++) {
              
                 listado= `
         
-                <p>` + "Nombre: " + datos[i].nombre +`</p>
+                <p style ="color: red; font-weight: bold">` + "Nombre: " + datos[i].nombre +`</p>
                 <p>`+ "Precio: " + datos[i].precio +`</p>
-                <p>`+ "Descripcion: " + datos[i].descripcion+`</p>
+                <p>`+ "Descripción: " + datos[i].descripcion+`</p>
                 <p>` + "Id: " + datos[i].id +` </p>
                 <p>` + "Colores: " + datos[i].colores[i] + `</p>
                 <p> ` + "Stock: " + datos[i].stock +` </p>                

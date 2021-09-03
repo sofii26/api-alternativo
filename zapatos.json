@@ -4,10 +4,6 @@
         "precio": "$2000",
         "descripcion": "Estar a la moda nunca fue tan fácil",
         "id": "1",
-        "colores": {
-            "color1": "Negro",
-            "color2": "Marrón"
-        },
         "stock": 15
 
     },
@@ -16,23 +12,14 @@
         "precio": "$2500",
         "descripcion": "Cómodos y económicos",
         "id": "2",
-        "colores": {
-            "color1": "Azul",
-            "color2": "Verde",
-            "color3": "Rojo"
-        },
-        "stock": 8
+         "stock": 8
     },
     {
         "nombre": "Botines",
         "precio": "$2000",
         "descripcion": "Ideal para cualquier salida",
         "id": "3",
-        "colores": {
-            "color1": "Marrón claro",
-            "color2": "Gris"
-        },
-        "stock": 20
+         "stock": 20
 
     },
     {
@@ -40,15 +27,6 @@
         "precio": "$600",
         "descripcion": "En variedad de colores",
         "id": "4",
-        "colores": {
-            "color1": "Gris",
-            "color2": "Rosado",
-            "color3": "Amarillo",
-            "color4": "Blanco",
-            "color5": "Verde",
-            "color6": "Azul"
-        
-        },
         "stock": 26
     }
 ]
